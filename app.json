@@ -19,7 +19,7 @@
     "repository": "https://github.com/DreamXBotz/Auto_Filter_Bot.git",
     "env": {
         "BOT_TOKEN": {
-            "description": "7576017974:AAFI-hM8zWlv_grtJqXRBOU293YF-px4AFY",
+            "description": "Your bot token.",
             "required": true
         },
         "API_ID": {
