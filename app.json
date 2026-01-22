@@ -1,5 +1,5 @@
 {
-    "name": "𝓓𝓻𝓮𝓪𝓶𝔁𝓑𝓸𝓽𝔃",
+    "name": "Anos Voldigoad",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -19,7 +19,7 @@
     "repository": "https://github.com/DreamXBotz/Auto_Filter_Bot.git",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "7576017974:AAFI-hM8zWlv_grtJqXRBOU293YF-px4AFY",
             "required": true
         },
         "API_ID": {
